@@ -1,17 +1,18 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Prosper Loan Data - Risk Profile Analysis
+## Ayush Ayyangar
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+> There are  total of 113937 loans with 81 features for each in the dataset.  Most of the variables in the dataset are numeric and floats as they deal with loan amounts, principal, interest and other metrics related to Prosper's yield and estimated returns. The dataset  contains the entire risk profile for the loan, the borrower. Some of the data for unverified income where stated income was less than $1 was removed for uniformity and accuracy.
 
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+> The Risk Profile for the loan dataset is Robust and their indicators for risk profile do point to bad loans and accurately predict the risk associated with the borrower.
 
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> Lower Prosper alpha and numeric rating values correspond to a higher loss in gross principal for Prosper. The risk profile for Prosper is well developed with the 3 Prosper rating and Prosper score giving the lender a clear idea of the risk the bank is taking in their lending profile.
+> The detailed data about the Borrower's profile helps build an accurate assessment of the risk profile for the borrower as well including the bank and trading history.
